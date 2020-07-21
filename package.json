@@ -1,0 +1,12 @@
+{
+  "name": "micro-root",
+  "description": "The single-spa root config for coexisting-angular-microfrontends",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s -l 9000"
+  },
+  "devDependencies": {
+    "serve": "^11.1.0"
+  },
+  "dependencies": {}
+}
